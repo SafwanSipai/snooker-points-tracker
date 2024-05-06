@@ -38,7 +38,13 @@ To use, follow these steps:
     | PowerShell | `<env-name>\Scripts\Activate.ps1` |
     | cmd.exe | `<env-name>\Scripts\activate.bat` |
 
-5. Inside the terminal, run the command: `python app.py --video-path=<path-to-your-mp4-file`
+5. Inside the terminal, run the command: `python app.py --video-path=<path-to-your-mp4-file>`
+
+## In Action
+
+![snooker-tracker-1](https://github.com/SafwanSipai/snooker-points-tracker/assets/83706912/3fb3a638-79c5-43d8-bc9a-bee6ef312a21)
+![snooker-tracker-2](https://github.com/SafwanSipai/snooker-points-tracker/assets/83706912/8db52950-f23a-4e57-80ef-dc63701aae2c)
+
 
 ## Acknowledgement 
 
